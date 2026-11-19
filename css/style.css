@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+/* Colors*/
+    --color--primery-red: #FF0501;
+    --color-black: #111111;
+    --color-white: #FFFFFF;
+    --color-light-grey: #E8E8E8;
+    --color-success: #4ADE80;
+    --color-feeedback-error: #1E40AF;
+
+/* Sizes */
+
+--size-xxl: 4rem;
+--size--xl: 3rem;
+--size--lg: 1.5rem
+--
+
+
+}
